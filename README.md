@@ -3,10 +3,6 @@
   <img src="assets/hero-light.svg" width="100%" alt="Filipe Silva. Enjoying life, building AI systems.">
 </picture>
 
-<br><br>
-
-I build systems where AI does real work next to a person: it plans, writes, tests and reviews, and a human says yes before anything leaves the machine. What I care about is **trust**. A system should say what it did, show what it could not check, and never act outward on its own.
-
 <br>
 
 <picture>
@@ -16,7 +12,7 @@ I build systems where AI does real work next to a person: it plans, writes, test
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/build-dark.svg">
-  <img src="assets/build-light.svg" width="100%" alt="How I build: build first, people decide, prove it, stay quiet.">
+  <img src="assets/build-light.svg" width="100%" alt="How I build: plan before executing; build each feature end to end; test with unit, integration, E2E, regression and mutation tests, then a person signs off; optimize release on release; automate so the system needs oversight, not intervention.">
 </picture>
 
 <br>
