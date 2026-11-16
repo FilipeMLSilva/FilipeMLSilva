@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="320" viewBox="0 0 590 320" role="img" aria-label="V.I.S.I.O.N: Very Intelligent System Inside One Network">
+<rect width="590" height="320" rx="24" fill="#f3f3f5"/>
+<text x="40" y="52" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="12" letter-spacing="3" fill="#8b8b94">PROJECT  ·  01</text>
+<text x="38" y="100" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="40" font-weight="200" letter-spacing="1" fill="#16161a">V.I.S.I.O.N</text>
+<text x="40" y="124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" font-style="italic" fill="#8b8b94">Very Intelligent System Inside One Network</text>
+<text x="40" y="150" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#55555e">An assistant that observes how work happens on one</text><text x="40" y="175" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#55555e">machine, remembers it, and answers from that record.</text><text x="40" y="200" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#55555e">Local-first: nothing leaves the machine.</text>
+<rect x="40" y="252" width="71" height="28" rx="14" fill="#e4e4e8"/><text x="76" y="271" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="12.5" fill="#55555e">Python</text><rect x="119.19999999999999" y="252" width="112" height="28" rx="14" fill="#e4e4e8"/><text x="175" y="271" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="12.5" fill="#55555e">local-first</text>
+<circle cx="358" cy="266" r="4" fill="#1f6feb"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="370" y="271" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="12.5" fill="#1f6feb">release in preparation</text>
+</svg>

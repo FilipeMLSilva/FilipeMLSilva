@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="320" viewBox="0 0 590 320" role="img" aria-label="J.O.B.S: From ticket to reviewed pull request, on one screen">
+<rect width="590" height="320" rx="24" fill="#17171a"/>
+<text x="40" y="52" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="12" letter-spacing="3" fill="#6c6c74">PROJECT  ·  02</text>
+<text x="38" y="100" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="40" font-weight="200" letter-spacing="1" fill="#f2f2f3">J.O.B.S</text>
+<text x="40" y="124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" font-style="italic" fill="#6c6c74">From ticket to reviewed pull request, on one screen</text>
+<text x="40" y="150" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#a6a6ad">A VS Code cockpit where agents research, plan, build,</text><text x="40" y="175" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#a6a6ad">test and review. Every outward step waits for</text><text x="40" y="200" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#a6a6ad">a person to say yes.</text>
+<rect x="40" y="252" width="104" height="28" rx="14" fill="#222226"/><text x="92" y="271" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="12.5" fill="#a6a6ad">TypeScript</text><rect x="152.0" y="252" width="55" height="28" rx="14" fill="#222226"/><text x="179" y="271" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="12.5" fill="#a6a6ad">Rust</text>
+<circle cx="358" cy="266" r="4" fill="#f5a524"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="370" y="271" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="12.5" fill="#f5a524">release in preparation</text>
+</svg>

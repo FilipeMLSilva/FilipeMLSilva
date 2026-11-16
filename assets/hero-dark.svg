@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Filipe Silva. Enjoying life, building AI systems.">
+<defs>
+<radialGradient id="g" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#f5a524" stop-opacity="0.28"/><stop offset="55%" stop-color="#f5a524" stop-opacity="0.07"/><stop offset="100%" stop-color="#f5a524" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect width="1200" height="360" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="360" fill="#0d0d0f"/>
+<circle cx="960" cy="180" r="230" fill="url(#g)"/>
+<circle cx="960" cy="180" r="46" fill="none" stroke="#f5a524" stroke-width="1.6" opacity="0.9"><animate attributeName="opacity" values="0.9;0.32;0.9" dur="5s" repeatCount="indefinite"/></circle><circle cx="960" cy="180" r="78" fill="none" stroke="#f5a524" stroke-width="1.1" opacity="0.55"><animate attributeName="opacity" values="0.55;0.19;0.55" dur="6s" repeatCount="indefinite"/></circle><circle cx="960" cy="180" r="116" fill="none" stroke="#f5a524" stroke-width="0.9" opacity="0.34"><animate attributeName="opacity" values="0.34;0.12;0.34" dur="7s" repeatCount="indefinite"/></circle><circle cx="960" cy="180" r="160" fill="none" stroke="#f5a524" stroke-width="0.7" opacity="0.2"><animate attributeName="opacity" values="0.2;0.07;0.2" dur="8s" repeatCount="indefinite"/></circle><circle cx="960" cy="180" r="210" fill="none" stroke="#f5a524" stroke-width="0.6" opacity="0.11"><animate attributeName="opacity" values="0.11;0.04;0.11" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="960" cy="180" r="7" fill="#f5a524"><animate attributeName="r" values="7;9;7" dur="5s" repeatCount="indefinite"/></circle>
+<text x="72" y="104" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="14" letter-spacing="4" fill="#6c6c74">AI SYSTEMS  ·  PORTUGAL</text>
+<text x="68" y="196" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="84" font-weight="200" letter-spacing="-1.5" fill="#f2f2f3">Filipe Silva</text>
+<text x="72" y="250" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="300" fill="#a6a6ad">Enjoying life, building AI systems.</text>
+<circle cx="78" cy="298" r="4" fill="#f5a524"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="94" y="303" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Consolas, monospace" font-size="13" letter-spacing="1" fill="#a6a6ad">building in the open, soon</text>
+</g>
+</svg>

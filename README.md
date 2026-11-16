@@ -1,29 +1,30 @@
-# Filipe Silva
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Filipe Silva. Enjoying life, building AI systems.">
+</picture>
 
-**Enjoying life, building AI systems.**
+<br>
 
-I build systems where AI does real work next to a person: it plans, writes, tests and reviews, and a human says yes before anything leaves the machine. Based in Portugal.
+I build systems where AI does real work next to a person: it plans, writes, tests and reviews, and a human says yes before anything leaves the machine. What I care about is **trust**. A system should say what it did, show what it could not check, and never act outward on its own.
 
-What I care about is **trust**. A system should say what it did, show what it could not check, and never act outward on its own.
+<br>
 
-## Projects
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/vision-dark.svg">
+    <img src="assets/vision-light.svg" width="49%" alt="V.I.S.I.O.N: an assistant that observes how work happens on one machine, remembers it, and answers from that record. Python, local-first. Release in preparation.">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/jobs-dark.svg">
+    <img src="assets/jobs-light.svg" width="49%" alt="J.O.B.S: a VS Code cockpit where agents take a ticket to a reviewed pull request and every outward step waits for a person. TypeScript, Rust. Release in preparation.">
+  </picture>
+</p>
 
-### V.I.S.I.O.N
-*Very Intelligent System Inside One Network.*
-An assistant that observes how work happens on one machine, keeps an episodic memory of it, and answers from that record. Capture is deterministic code; the model is called only at the boundaries. Local-first: nothing leaves the machine.
-`Python` · *public release in preparation*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/build-dark.svg">
+  <img src="assets/build-light.svg" width="100%" alt="How I build: build first, people decide, prove it, stay quiet.">
+</picture>
 
-### J.O.B.S
-A VS Code cockpit that takes a ticket from backlog to a reviewed pull request: research, plan, development, tests, checks, review, docs. Agents do the work, one screen shows it, and every outward step waits for a person.
-`TypeScript` · `Rust` · *public release in preparation*
+<br>
 
-## How I build
-
-- The working system first; the architecture is read from it after.
-- Agents implement, code coordinates, people decide.
-- A test must fail on the broken version, or it proves nothing.
-- Colour means state. Everything else stays quiet.
-
----
-
-<sub>Engineered by Filipe, built by V.I.S.I.O.N.</sub>
+<p align="center"><sub>Engineered by Filipe, built by V.I.S.I.O.N.</sub></p>
