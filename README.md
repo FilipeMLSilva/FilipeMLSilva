@@ -13,8 +13,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/build-dark-29903d9f.svg">
-  <img src="assets/build-light-5409d960.svg" width="100%" alt="How I build. Plan: a clear plan costs less than a clever fix. Build: a feature ships whole, or it does not ship. Test: proven by machines, signed off by people. Optimize: stability is earned one release at a time. Automate: a well-run system needs oversight, not intervention.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/build-dark-ff5dbd01.svg">
+  <img src="assets/build-light-f881f4e4.svg" width="100%" alt="How I build. Plan: plan it in full, visuals and risk, not mid-build. Build: ship it whole, from data to screen, never half-wired. Test: machines prove it, people sign it off, nothing ships blind. Optimize: every release adds stability, not new risk. Automate: a well-run system needs oversight, not intervention.">
 </picture>
 
 <br>
