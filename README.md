@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
-  <img src="assets/projects-light.svg" width="100%" alt="Projects. V.I.S.I.O.N: an assistant that observes how work happens on one machine, remembers it, and answers from that record; Python, local-first. J.O.B.S: a VS Code cockpit where agents take a ticket to a reviewed pull request and every outward step waits for a person; TypeScript, Rust.">
+  <img src="assets/projects-light.svg" width="100%" alt="Projects. V.I.S.I.O.N: an assistant that observes how work happens on one machine, remembers it, and answers from that record; Python, local-first. J.O.B.S, Just One Built-In System: a VS Code cockpit for developers and product owners, where agents research, plan, build, test and refine, and every outward step waits for a person; TypeScript, Rust.">
 </picture>
 
 <picture>
