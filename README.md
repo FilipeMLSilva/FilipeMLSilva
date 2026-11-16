@@ -13,8 +13,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/build-dark-f3370dc9.svg">
-  <img src="assets/build-light-f2990b6b.svg" width="100%" alt="How I build: plan visuals, architecture and risks before a line is written; build every feature end to end; test with unit, integration, E2E, regression and mutation tests, then a person signs off; optimize release on release until stable; automate so the system needs oversight, not intervention.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/build-dark-29903d9f.svg">
+  <img src="assets/build-light-5409d960.svg" width="100%" alt="How I build. Plan: a clear plan costs less than a clever fix. Build: a feature ships whole, or it does not ship. Test: proven by machines, signed off by people. Optimize: stability is earned one release at a time. Automate: a well-run system needs oversight, not intervention.">
 </picture>
 
 <br>
